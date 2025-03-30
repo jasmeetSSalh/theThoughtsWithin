@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on theThoughtsWithin</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in About on theThoughtsWithin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 05 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/about/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/about/</guid>
+      
+      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
+&lt;p&gt;Welcome to my corner of the internet! My name is [Your Name], and I’m passionate about [your passions or interests]. This site is a space where I share my thoughts, ideas, and projects.&lt;/p&gt;
+&lt;h2 id=&#34;who-am-i&#34;&gt;Who Am I?&lt;/h2&gt;
+&lt;p&gt;I’m a [your profession or role] with a love for [specific interests or hobbies]. When I’m not working on [your work or projects], you can find me [your hobbies or activities].&lt;/p&gt;
+&lt;h2 id=&#34;what-this-site-is-about&#34;&gt;What This Site Is About&lt;/h2&gt;
+&lt;p&gt;This site is a collection of my musings, experiences, and creations. Whether it’s about [topic 1], [topic 2], or [topic 3], I hope you find something here that resonates with you.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

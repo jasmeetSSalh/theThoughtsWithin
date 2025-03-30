@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on theThoughtsWithin</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on theThoughtsWithin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 29 Mar 2025 19:49:23 -0400</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sat, 29 Mar 2025 19:40:09 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      
+      <description>&lt;h1 id=&#34;my-hugo-site&#34;&gt;My Hugo Site&lt;/h1&gt;
+&lt;p&gt;A brief description of your site. Mention what it&amp;rsquo;s about and why it exists.&lt;/p&gt;
+&lt;h2 id=&#34;-prerequisites&#34;&gt;📌 Prerequisites&lt;/h2&gt;
+&lt;p&gt;Make sure you have the following installed:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/getting-started/installing/&#34;&gt;Hugo&lt;/a&gt; (Extended version recommended)&lt;/li&gt;
+&lt;li&gt;Git (optional but useful)&lt;/li&gt;
+&lt;li&gt;A text editor (VS Code, Sublime, etc.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-getting-started&#34;&gt;🚀 Getting Started&lt;/h2&gt;
+&lt;h3 id=&#34;1-clone-the-repository&#34;&gt;1. Clone the Repository&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git clone https://github.com/yourusername/your-hugo-site.git
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; your-hugo-site
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
