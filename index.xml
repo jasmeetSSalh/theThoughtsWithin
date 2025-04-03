@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>theThoughtsWithin</title>
+    <link>https://jasmeetSSalh.github.io/theThoughtsWithin/</link>
+    <description>Recent content on theThoughtsWithin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 29 Mar 2025 19:40:09 -0400</lastBuildDate><atom:link href="https://jasmeetSSalh.github.io/theThoughtsWithin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://jasmeetSSalh.github.io/theThoughtsWithin/posts/my-first-post/</link>
+      <pubDate>Sat, 29 Mar 2025 19:40:09 -0400</pubDate>
+      
+      <guid>https://jasmeetSSalh.github.io/theThoughtsWithin/posts/my-first-post/</guid>
+      <description>My Hugo Site A brief description of your site. Mention what it&amp;rsquo;s about and why it exists.
+📌 Prerequisites Make sure you have the following installed:
+ Hugo (Extended version recommended) Git (optional but useful) A text editor (VS Code, Sublime, etc.)  🚀 Getting Started 1. Clone the Repository git clone https://github.com/yourusername/your-hugo-site.git cd your-hugo-site </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://jasmeetSSalh.github.io/theThoughtsWithin/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasmeetSSalh.github.io/theThoughtsWithin/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hugo makes use of a variety of open source projects including:
+ https://github.</description>
+    </item>
+    
+  </channel>
+</rss>

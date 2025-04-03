@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on theThoughtsWithin</title>
+    <link>https://jasmeetSSalh.github.io/theThoughtsWithin/posts/</link>
+    <description>Recent content in Posts on theThoughtsWithin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 29 Mar 2025 19:40:09 -0400</lastBuildDate><atom:link href="https://jasmeetSSalh.github.io/theThoughtsWithin/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://jasmeetSSalh.github.io/theThoughtsWithin/posts/my-first-post/</link>
+      <pubDate>Sat, 29 Mar 2025 19:40:09 -0400</pubDate>
+      
+      <guid>https://jasmeetSSalh.github.io/theThoughtsWithin/posts/my-first-post/</guid>
+      <description>My Hugo Site A brief description of your site. Mention what it&amp;rsquo;s about and why it exists.
+📌 Prerequisites Make sure you have the following installed:
+ Hugo (Extended version recommended) Git (optional but useful) A text editor (VS Code, Sublime, etc.)  🚀 Getting Started 1. Clone the Repository git clone https://github.com/yourusername/your-hugo-site.git cd your-hugo-site </description>
+    </item>
+    
+  </channel>
+</rss>
