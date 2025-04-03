@@ -2,6 +2,7 @@ baseURL: "https://jasmeetSSalh.github.io/theThoughtsWithin/"
 title: "theThoughtsWithin"
 theme: "hugo-blog-awesome"
 
+
 # This is what goes in <html lang="">
 languageCode: "en-us"
 
