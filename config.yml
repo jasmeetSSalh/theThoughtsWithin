@@ -1,0 +1,84 @@
+baseURL: "https://jasmeetSSalh.github.io/theThoughtsWithin/"
+title: "theThoughtsWithin"
+theme: "hugo-blog-awesome"
+
+# This is what goes in <html lang="">
+languageCode: "en-us"
+
+# This defines how dates are formatted
+defaultContentLanguage: "en-gb"
+
+# Enable emojis globally
+enableEmoji: true
+ignoreErrors:
+  - "additional-script-loading-error" # ignore error of loading additional scripts.
+
+services:
+  googleAnalytics:
+    id: "" # G-MEASUREMENT_ID
+  disqus:
+    shortname: ""
+
+markup:
+  highlight:
+    noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 2 # ToC starts from H2
+    endLevel: 4 # ToC ends at H4
+    ordered: false # generates <ul> instead of <ol>
+
+Languages:
+  en-gb:
+    languageName: "English"
+    languageCode: "en-gb"
+    contentDir: "content/en"
+    weight: 1
+    menu:
+      main:
+        - name: "Home"
+          url: "/"
+          weight: 10
+        - name: "Posts"
+          url: "/posts/"
+          weight: 20
+        - name: "About"
+          url: "/about/"
+          weight: 30
+    params:
+      sitename: "theThoughtsWithin" # used in webmanifest.json
+      defaultColor: "dark" # set color mode: dark, light, auto
+      description: "A blog about life, thoughts, and everything in between."
+      mainSections:
+        - "posts"
+        - "about"
+      toc: false # set to false to disable table of contents 'globally'
+      tocOpen: false # set to true to open table of contents by default
+      goToTop: true # set to false to disable 'go to top' button
+      additionalScripts:
+        - "js/custom.js"
+        - "js/custom-2.js"
+      dateFormat: "" # date format used to show dates on various pages. If nothing is specified, then "2 Jan 2006" format is used.
+      rssFeedDescription: "summary" # available options: 1) summary 2) full
+      author:
+        intro: "theThoughtsWithin"
+        name: "Jasmeet"
+        description: "A confused soul trying to live life with meaning, and perhaps find some purpose along the way. I am a curious person my nature, hence the content you will find here will be diverse. I hope you find something that resonates with you or helps you think about life in a different way."
+      webmanifest:
+        start_url: "/" # will use homepage url by default
+        theme_color: "#434648" # default is "#434648" (base color of text). Also will override html `<meta name="theme-color" />`
+        background_color: "#fff" # by default depend on "params.defaultColor" for "light" or "auto" will be set to "#fff" for dark will be "#131418" (color of dark mode background)
+        display: "standalone"
+
+params:
+  browserconfig:
+    TileColor: "#2d89ef" # default windows 10 blue tile color
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/jasmeetSSalh"
+    - name: "email"
+      url: "mailTo:jasmeetsalh4@gmail.com"
+    - name: "Rss"
+      url: "/index.xml"
