@@ -14,7 +14,9 @@ jobs:
       - name: Checkout source
         uses: actions/checkout@v4
         with:
-          submodules: recursive  # Ensure submodules are initialized properly
+          submodules: recursive
+          fetch-depth: 0  # Ensures full commit history for submodules
+
 
       - name: Checkout destination
         if: github.ref == 'refs/heads/main'
