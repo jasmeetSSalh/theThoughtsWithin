@@ -3,6 +3,11 @@ title: "theThoughtsWithin"
 theme: "hugo-blog-awesome"
 
 
+caches:
+  images:
+    dir: :cacheDir/images
+
+
 # This is what goes in <html lang="">
 languageCode: "en-us"
 
